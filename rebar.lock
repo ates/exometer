@@ -8,7 +8,7 @@
   2},
  {<<"exometer_core">>,
   {git,"https://github.com/ates/exometer_core.git",
-       {ref,"f1a43a97e6c5c3329767ee397ca4c756247b64c0"}},
+       {ref,"0b07b8f06c175bdee0769eb157f9aa10d0ddaa7b"}},
   0},
  {<<"folsom">>,
   {git,"https://github.com/folsom-project/folsom",
@@ -28,5 +28,5 @@
   1},
  {<<"setup">>,
   {git,"https://github.com/ates/setup.git",
-       {ref,"760da4a5dde31fc0d17f64701ed2784a6bf7e331"}},
+       {ref,"92a792fc4d5823b747cb8e819bd3fdbeb02345c3"}},
   1}].
